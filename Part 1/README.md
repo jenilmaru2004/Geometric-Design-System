@@ -1,1 +1,3 @@
+Part 1: Implementing the Design System. 
+
 In this part, a Geometric Design System is implemented using Java. The project involves creating separate classes for various shapes (Rectangle, Circle, LineSeg, Point) along with a base class (AbstractShape) and an interface (CollisionDetector). The focus is on detecting intersections between shapes based on specific geometric rules. Each shape class implements methods to determine whether it intersects with another shape. Efficiency is key, with emphasis on avoiding redundant implementations. This part lays the foundation for modular and scalable geometric computations.
