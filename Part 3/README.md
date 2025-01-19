@@ -6,5 +6,5 @@ The final part extends the system by integrating three design patterns:
 
 - Iterator Pattern: Implements an Iterator for CompShape to access individual components in a structured way.
 
-- Singleton Pattern: Adds a Drawing class to ensure a single instance manages the overall drawing composition.  
+- Singleton Pattern: Adds a Drawing class to ensure a single instance manages the overall drawing composition. \\
 These patterns enhance the flexibility, scalability, and maintainability of the system, making it suitable for more complex applications and workflows.
